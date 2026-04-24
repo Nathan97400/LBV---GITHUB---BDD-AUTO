@@ -17389,5 +17389,135 @@
     "0-100 km/h (s)": null,
     "Réservoir (L)": null,
     "Notes": ""
+  },
+  {
+    "Marque": "Mercedes",
+    "Modèle": "Vito",
+    "Version / Finition": "114 CDI Long",
+    "Puissance (ch)": 136,
+    "Énergie": "Diesel",
+    "Année début": 2014,
+    "Année fin": 2026,
+    "Carrosserie": "Fourgon"
+  },
+  {
+    "Marque": "Mercedes",
+    "Modèle": "Vito",
+    "Version / Finition": "111 CDI Long",
+    "Puissance (ch)": 114,
+    "Énergie": "Diesel",
+    "Année début": 2003,
+    "Année fin": 2014,
+    "Carrosserie": "Fourgon"
+  },
+  {
+    "Marque": "Mercedes",
+    "Modèle": "Classe M/ML",
+    "Version / Finition": "ML 350 CDI",
+    "Puissance (ch)": 258,
+    "Énergie": "Diesel",
+    "Année début": 2011,
+    "Année fin": 2015,
+    "Carrosserie": "SUV 5 portes"
+  },
+  {
+    "Marque": "Mercedes",
+    "Modèle": "Classe M/ML",
+    "Version / Finition": "ML 250 CDI",
+    "Puissance (ch)": 204,
+    "Énergie": "Diesel",
+    "Année début": 2011,
+    "Année fin": 2015,
+    "Carrosserie": "SUV 5 portes"
+  },
+  {
+    "Marque": "Mercedes",
+    "Modèle": "Classe M/ML",
+    "Version / Finition": "ML 350",
+    "Puissance (ch)": 306,
+    "Énergie": "Essence",
+    "Année début": 2011,
+    "Année fin": 2015,
+    "Carrosserie": "SUV 5 portes"
+  },
+  {
+    "Marque": "Mercedes",
+    "Modèle": "Classe SLK",
+    "Version / Finition": "200 Kompressor",
+    "Puissance (ch)": 184,
+    "Énergie": "Essence",
+    "Année début": 2004,
+    "Année fin": 2011,
+    "Carrosserie": "Cabriolet"
+  },
+  {
+    "Marque": "Mercedes",
+    "Modèle": "Classe SLK",
+    "Version / Finition": "250",
+    "Puissance (ch)": 204,
+    "Énergie": "Essence",
+    "Année début": 2011,
+    "Année fin": 2016,
+    "Carrosserie": "Cabriolet"
+  },
+  {
+    "Marque": "Mercedes",
+    "Modèle": "Classe CLK",
+    "Version / Finition": "200 Kompressor",
+    "Puissance (ch)": 163,
+    "Énergie": "Essence",
+    "Année début": 2002,
+    "Année fin": 2009,
+    "Carrosserie": "Coupé"
+  },
+  {
+    "Marque": "Mercedes",
+    "Modèle": "Classe CLK",
+    "Version / Finition": "220 CDI",
+    "Puissance (ch)": 150,
+    "Énergie": "Diesel",
+    "Année début": 2002,
+    "Année fin": 2009,
+    "Carrosserie": "Coupé"
+  },
+  {
+    "Marque": "Mercedes",
+    "Modèle": "Sprinter",
+    "Version / Finition": "314 CDI",
+    "Puissance (ch)": 143,
+    "Énergie": "Diesel",
+    "Année début": 2006,
+    "Année fin": 2026,
+    "Carrosserie": "Fourgon"
+  },
+  {
+    "Marque": "Mercedes",
+    "Modèle": "EQS",
+    "Version / Finition": "450+",
+    "Puissance (ch)": 333,
+    "Énergie": "Electrique",
+    "Année début": 2021,
+    "Année fin": 2026,
+    "Carrosserie": "Berline 5 portes"
+  },
+  {
+    "Marque": "Mercedes",
+    "Modèle": "EQE",
+    "Version / Finition": "350+",
+    "Puissance (ch)": 292,
+    "Énergie": "Electrique",
+    "Année début": 2022,
+    "Année fin": 2026,
+    "Carrosserie": "Berline 5 portes"
+  },
+  {
+    "Marque": "Mercedes",
+    "Modèle": "GLS",
+    "Version / Finition": "350 d 4MATIC",
+    "Puissance (ch)": 286,
+    "Énergie": "Diesel",
+    "Année début": 2015,
+    "Année fin": 2026,
+    "Carrosserie": "SUV 5 portes"
   }
 ]
